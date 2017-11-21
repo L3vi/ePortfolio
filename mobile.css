@@ -35,7 +35,7 @@ nav ul {
 }
 
 nav li {
-    background-color: cornflowerblue;
+    background-color: #0099CC;
     width: 10em;
     height: 10em;
     border-radius: 30px;
@@ -70,10 +70,7 @@ nav li:nth-child(4) img {
     display: flex;
     flex-direction: column;
     
-    align-items: flex-end;
-    background-color: skyblue;
-    
-    
+    background-color: #66CCFF;
 }
 
 .section div {
@@ -86,19 +83,17 @@ nav li:nth-child(4) img {
     position: sticky;
     top: 0;
     
-    
-    width: 100%;
     user-select: none;
 /*    cursor: pointer;*/
     
-    background-color: coral;
+    background-color: #003399;
     color: white;
     
     margin: 0em;
-    padding: 0.4em;
+    padding: 0.2em 0.4em;
     
     text-align: right;
-    font-size: 2em;
+    font-size: 3em;
     text-shadow: 3px 4px 0 rgba(0,0,0,0.2);
 }
 
